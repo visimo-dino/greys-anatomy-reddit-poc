@@ -1,0 +1,12 @@
+search_tweets_premium:
+    account_type: premium
+    endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/dev.json
+    bearer_token: AAAAAAAAAAAAAAAAAAAAACYIDQEAAAAALiin9KgrEKPVjAkviZvlpN2oqac%3DlaDFqrBtaQjX0TOF9Ie2T8IpK8ucV3DtkgsRr01pL1DuY0Hffg
+tweet_counts_premium:
+    account_type: premium
+    endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/dev/counts.json
+    bearer_token: AAAAAAAAAAAAAAAAAAAAACYIDQEAAAAALiin9KgrEKPVjAkviZvlpN2oqac%3DlaDFqrBtaQjX0TOF9Ie2T8IpK8ucV3DtkgsRr01pL1DuY0Hffg
+search_tweets_30_day_dev:
+    account_type: premium
+    endpoint: https://api.twitter.com/1.1/tweets/search/30day/sandbox.json
+    bearer_token: AAAAAAAAAAAAAAAAAAAAACYIDQEAAAAALiin9KgrEKPVjAkviZvlpN2oqac%3DlaDFqrBtaQjX0TOF9Ie2T8IpK8ucV3DtkgsRr01pL1DuY0Hffg
